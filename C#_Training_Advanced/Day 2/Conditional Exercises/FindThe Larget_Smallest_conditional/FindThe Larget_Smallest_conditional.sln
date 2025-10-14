@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindThe Larget_Smallest_conditional", "FindThe Larget_Smallest_conditional.csproj", "{189C1AB1-DC9C-4764-A5F0-B9DCBD29D209}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{189C1AB1-DC9C-4764-A5F0-B9DCBD29D209}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{189C1AB1-DC9C-4764-A5F0-B9DCBD29D209}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{189C1AB1-DC9C-4764-A5F0-B9DCBD29D209}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{189C1AB1-DC9C-4764-A5F0-B9DCBD29D209}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2529A98-86A6-46D3-BC18-698DB12EF5FA}
+	EndGlobalSection
+EndGlobal
