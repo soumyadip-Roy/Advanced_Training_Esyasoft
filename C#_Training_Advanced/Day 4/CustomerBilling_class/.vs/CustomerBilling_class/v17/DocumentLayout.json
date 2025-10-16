@@ -1,0 +1,132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Soumyadip--Esyasoft\\Advanced Training Stuff\\C#_Training\\CustomerBilling_class\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D68F742-AB1D-4601-80AE-BED2DBF0D12B}|CustomerBilling_class.csproj|c:\\users\\user\\desktop\\soumyadip--esyasoft\\advanced training stuff\\c#_training\\customerbilling_class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D68F742-AB1D-4601-80AE-BED2DBF0D12B}|CustomerBilling_class.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D68F742-AB1D-4601-80AE-BED2DBF0D12B}|CustomerBilling_class.csproj|c:\\users\\user\\desktop\\soumyadip--esyasoft\\advanced training stuff\\c#_training\\customerbilling_class\\customerpackage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D68F742-AB1D-4601-80AE-BED2DBF0D12B}|CustomerBilling_class.csproj|solutionrelative:customerpackage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D68F742-AB1D-4601-80AE-BED2DBF0D12B}|CustomerBilling_class.csproj|c:\\users\\user\\desktop\\soumyadip--esyasoft\\advanced training stuff\\c#_training\\customerbilling_class\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D68F742-AB1D-4601-80AE-BED2DBF0D12B}|CustomerBilling_class.csproj|solutionrelative:bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D68F742-AB1D-4601-80AE-BED2DBF0D12B}|CustomerBilling_class.csproj|c:\\users\\user\\desktop\\soumyadip--esyasoft\\advanced training stuff\\c#_training\\customerbilling_class\\smartmeter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D68F742-AB1D-4601-80AE-BED2DBF0D12B}|CustomerBilling_class.csproj|solutionrelative:smartmeter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D68F742-AB1D-4601-80AE-BED2DBF0D12B}|CustomerBilling_class.csproj|c:\\users\\user\\desktop\\soumyadip--esyasoft\\advanced training stuff\\c#_training\\customerbilling_class\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D68F742-AB1D-4601-80AE-BED2DBF0D12B}|CustomerBilling_class.csproj|solutionrelative:customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D68F742-AB1D-4601-80AE-BED2DBF0D12B}|CustomerBilling_class.csproj|c:\\users\\user\\desktop\\soumyadip--esyasoft\\advanced training stuff\\c#_training\\customerbilling_class\\reading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D68F742-AB1D-4601-80AE-BED2DBF0D12B}|CustomerBilling_class.csproj|solutionrelative:reading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bill.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Soumyadip--Esyasoft\\Advanced Training Stuff\\C#_Training\\CustomerBilling_class\\Bill.cs",
+              "RelativeDocumentMoniker": "Bill.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Soumyadip--Esyasoft\\Advanced Training Stuff\\C#_Training\\CustomerBilling_class\\Bill.cs",
+              "RelativeToolTip": "Bill.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAqwFUAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T09:48:45.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Reading.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Soumyadip--Esyasoft\\Advanced Training Stuff\\C#_Training\\CustomerBilling_class\\Reading.cs",
+              "RelativeDocumentMoniker": "Reading.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Soumyadip--Esyasoft\\Advanced Training Stuff\\C#_Training\\CustomerBilling_class\\Reading.cs",
+              "RelativeToolTip": "Reading.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T10:11:13.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SmartMeter.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Soumyadip--Esyasoft\\Advanced Training Stuff\\C#_Training\\CustomerBilling_class\\SmartMeter.cs",
+              "RelativeDocumentMoniker": "SmartMeter.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Soumyadip--Esyasoft\\Advanced Training Stuff\\C#_Training\\CustomerBilling_class\\SmartMeter.cs",
+              "RelativeToolTip": "SmartMeter.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwC4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T09:37:16.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Soumyadip--Esyasoft\\Advanced Training Stuff\\C#_Training\\CustomerBilling_class\\Customer.cs",
+              "RelativeDocumentMoniker": "Customer.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Soumyadip--Esyasoft\\Advanced Training Stuff\\C#_Training\\CustomerBilling_class\\Customer.cs",
+              "RelativeToolTip": "Customer.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAA5wDcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T09:26:12.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Soumyadip--Esyasoft\\Advanced Training Stuff\\C#_Training\\CustomerBilling_class\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Soumyadip--Esyasoft\\Advanced Training Stuff\\C#_Training\\CustomerBilling_class\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAswEoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T08:45:47.614Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerPackage.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Soumyadip--Esyasoft\\Advanced Training Stuff\\C#_Training\\CustomerBilling_class\\CustomerPackage.cs",
+              "RelativeDocumentMoniker": "CustomerPackage.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Soumyadip--Esyasoft\\Advanced Training Stuff\\C#_Training\\CustomerBilling_class\\CustomerPackage.cs",
+              "RelativeToolTip": "CustomerPackage.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAADwv0wAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T10:16:30.064Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

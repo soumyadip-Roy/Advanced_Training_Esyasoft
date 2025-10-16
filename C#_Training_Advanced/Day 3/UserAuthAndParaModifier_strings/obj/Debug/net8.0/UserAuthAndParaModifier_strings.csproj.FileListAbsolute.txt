@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Soumyadip--Esyasoft\Advanced Training Stuff\C#_Training\UserAuthAndParaModifier_strings\bin\Debug\net8.0\UserAuthAndParaModifier_strings.exe
+C:\Users\user\Desktop\Soumyadip--Esyasoft\Advanced Training Stuff\C#_Training\UserAuthAndParaModifier_strings\bin\Debug\net8.0\UserAuthAndParaModifier_strings.deps.json
+C:\Users\user\Desktop\Soumyadip--Esyasoft\Advanced Training Stuff\C#_Training\UserAuthAndParaModifier_strings\bin\Debug\net8.0\UserAuthAndParaModifier_strings.runtimeconfig.json
+C:\Users\user\Desktop\Soumyadip--Esyasoft\Advanced Training Stuff\C#_Training\UserAuthAndParaModifier_strings\bin\Debug\net8.0\UserAuthAndParaModifier_strings.dll
+C:\Users\user\Desktop\Soumyadip--Esyasoft\Advanced Training Stuff\C#_Training\UserAuthAndParaModifier_strings\bin\Debug\net8.0\UserAuthAndParaModifier_strings.pdb
+C:\Users\user\Desktop\Soumyadip--Esyasoft\Advanced Training Stuff\C#_Training\UserAuthAndParaModifier_strings\obj\Debug\net8.0\UserAuthAndParaModifier_strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Soumyadip--Esyasoft\Advanced Training Stuff\C#_Training\UserAuthAndParaModifier_strings\obj\Debug\net8.0\UserAuthAndParaModifier_strings.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Soumyadip--Esyasoft\Advanced Training Stuff\C#_Training\UserAuthAndParaModifier_strings\obj\Debug\net8.0\UserAuthAndParaModifier_strings.AssemblyInfo.cs
+C:\Users\user\Desktop\Soumyadip--Esyasoft\Advanced Training Stuff\C#_Training\UserAuthAndParaModifier_strings\obj\Debug\net8.0\UserAuthAndParaModifier_strings.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Soumyadip--Esyasoft\Advanced Training Stuff\C#_Training\UserAuthAndParaModifier_strings\obj\Debug\net8.0\UserAuthAndParaModifier_strings.dll
+C:\Users\user\Desktop\Soumyadip--Esyasoft\Advanced Training Stuff\C#_Training\UserAuthAndParaModifier_strings\obj\Debug\net8.0\refint\UserAuthAndParaModifier_strings.dll
+C:\Users\user\Desktop\Soumyadip--Esyasoft\Advanced Training Stuff\C#_Training\UserAuthAndParaModifier_strings\obj\Debug\net8.0\UserAuthAndParaModifier_strings.pdb
+C:\Users\user\Desktop\Soumyadip--Esyasoft\Advanced Training Stuff\C#_Training\UserAuthAndParaModifier_strings\obj\Debug\net8.0\UserAuthAndParaModifier_strings.genruntimeconfig.cache
+C:\Users\user\Desktop\Soumyadip--Esyasoft\Advanced Training Stuff\C#_Training\UserAuthAndParaModifier_strings\obj\Debug\net8.0\ref\UserAuthAndParaModifier_strings.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserAuthAndParaModifier_strings", "UserAuthAndParaModifier_strings.csproj", "{7E44ED3C-B557-4497-9BA2-FE1C2B03156A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E44ED3C-B557-4497-9BA2-FE1C2B03156A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E44ED3C-B557-4497-9BA2-FE1C2B03156A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E44ED3C-B557-4497-9BA2-FE1C2B03156A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E44ED3C-B557-4497-9BA2-FE1C2B03156A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F893D3AA-BF71-46D0-A38E-49F1EBE2E8DF}
+	EndGlobalSection
+EndGlobal
