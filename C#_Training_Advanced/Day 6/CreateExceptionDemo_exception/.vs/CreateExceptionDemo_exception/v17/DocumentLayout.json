@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Soumyadip--Esyasoft\\Advanced Training Stuff\\C#_Training\\CreateExceptionDemo_exception\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC832CE9-95FE-4379-9CC6-FAEA784EFDD3}|CreateExceptionDemo_exception.csproj|c:\\users\\user\\desktop\\soumyadip--esyasoft\\advanced training stuff\\c#_training\\createexceptiondemo_exception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC832CE9-95FE-4379-9CC6-FAEA784EFDD3}|CreateExceptionDemo_exception.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC832CE9-95FE-4379-9CC6-FAEA784EFDD3}|CreateExceptionDemo_exception.csproj|c:\\users\\user\\desktop\\soumyadip--esyasoft\\advanced training stuff\\c#_training\\createexceptiondemo_exception\\agenotsufficient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC832CE9-95FE-4379-9CC6-FAEA784EFDD3}|CreateExceptionDemo_exception.csproj|solutionrelative:agenotsufficient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AgeNotSufficient.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Soumyadip--Esyasoft\\Advanced Training Stuff\\C#_Training\\CreateExceptionDemo_exception\\AgeNotSufficient.cs",
+              "RelativeDocumentMoniker": "AgeNotSufficient.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Soumyadip--Esyasoft\\Advanced Training Stuff\\C#_Training\\CreateExceptionDemo_exception\\AgeNotSufficient.cs",
+              "RelativeToolTip": "AgeNotSufficient.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwCMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T10:36:52.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Soumyadip--Esyasoft\\Advanced Training Stuff\\C#_Training\\CreateExceptionDemo_exception\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Soumyadip--Esyasoft\\Advanced Training Stuff\\C#_Training\\CreateExceptionDemo_exception\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T10:35:40.166Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

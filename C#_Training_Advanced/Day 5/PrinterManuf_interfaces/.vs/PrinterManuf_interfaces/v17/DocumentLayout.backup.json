@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Soumyadip--Esyasoft\\Advanced Training Stuff\\C#_Training\\PrinterManuf_interfaces\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1FC53AA-B4E6-40F8-BBD8-D820E50A8EE5}|PrinterManuf_interfaces.csproj|c:\\users\\user\\desktop\\soumyadip--esyasoft\\advanced training stuff\\c#_training\\printermanuf_interfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1FC53AA-B4E6-40F8-BBD8-D820E50A8EE5}|PrinterManuf_interfaces.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1FC53AA-B4E6-40F8-BBD8-D820E50A8EE5}|PrinterManuf_interfaces.csproj|c:\\users\\user\\desktop\\soumyadip--esyasoft\\advanced training stuff\\c#_training\\printermanuf_interfaces\\obj\\debug\\net8.0\\printermanuf_interfaces.globalusings.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1FC53AA-B4E6-40F8-BBD8-D820E50A8EE5}|PrinterManuf_interfaces.csproj|solutionrelative:obj\\debug\\net8.0\\printermanuf_interfaces.globalusings.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1FC53AA-B4E6-40F8-BBD8-D820E50A8EE5}|PrinterManuf_interfaces.csproj|c:\\users\\user\\desktop\\soumyadip--esyasoft\\advanced training stuff\\c#_training\\printermanuf_interfaces\\epsonprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1FC53AA-B4E6-40F8-BBD8-D820E50A8EE5}|PrinterManuf_interfaces.csproj|solutionrelative:epsonprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1FC53AA-B4E6-40F8-BBD8-D820E50A8EE5}|PrinterManuf_interfaces.csproj|c:\\users\\user\\desktop\\soumyadip--esyasoft\\advanced training stuff\\c#_training\\printermanuf_interfaces\\iprinter2user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1FC53AA-B4E6-40F8-BBD8-D820E50A8EE5}|PrinterManuf_interfaces.csproj|solutionrelative:iprinter2user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1FC53AA-B4E6-40F8-BBD8-D820E50A8EE5}|PrinterManuf_interfaces.csproj|c:\\users\\user\\desktop\\soumyadip--esyasoft\\advanced training stuff\\c#_training\\printermanuf_interfaces\\hpprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1FC53AA-B4E6-40F8-BBD8-D820E50A8EE5}|PrinterManuf_interfaces.csproj|solutionrelative:hpprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PrinterManuf_interfaces.GlobalUsings.g.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Soumyadip--Esyasoft\\Advanced Training Stuff\\C#_Training\\PrinterManuf_interfaces\\obj\\Debug\\net8.0\\PrinterManuf_interfaces.GlobalUsings.g.cs",
+              "RelativeDocumentMoniker": "obj\\Debug\\net8.0\\PrinterManuf_interfaces.GlobalUsings.g.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Soumyadip--Esyasoft\\Advanced Training Stuff\\C#_Training\\PrinterManuf_interfaces\\obj\\Debug\\net8.0\\PrinterManuf_interfaces.GlobalUsings.g.cs",
+              "RelativeToolTip": "obj\\Debug\\net8.0\\PrinterManuf_interfaces.GlobalUsings.g.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T07:27:35.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPrinter2User.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Soumyadip--Esyasoft\\Advanced Training Stuff\\C#_Training\\PrinterManuf_interfaces\\IPrinter2User.cs",
+              "RelativeDocumentMoniker": "IPrinter2User.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Soumyadip--Esyasoft\\Advanced Training Stuff\\C#_Training\\PrinterManuf_interfaces\\IPrinter2User.cs",
+              "RelativeToolTip": "IPrinter2User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T06:37:56.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HPPrinter.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Soumyadip--Esyasoft\\Advanced Training Stuff\\C#_Training\\PrinterManuf_interfaces\\HPPrinter.cs",
+              "RelativeDocumentMoniker": "HPPrinter.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Soumyadip--Esyasoft\\Advanced Training Stuff\\C#_Training\\PrinterManuf_interfaces\\HPPrinter.cs",
+              "RelativeToolTip": "HPPrinter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T06:37:18.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EpsonPrinter.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Soumyadip--Esyasoft\\Advanced Training Stuff\\C#_Training\\PrinterManuf_interfaces\\EpsonPrinter.cs",
+              "RelativeDocumentMoniker": "EpsonPrinter.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Soumyadip--Esyasoft\\Advanced Training Stuff\\C#_Training\\PrinterManuf_interfaces\\EpsonPrinter.cs",
+              "RelativeToolTip": "EpsonPrinter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T06:37:03.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Soumyadip--Esyasoft\\Advanced Training Stuff\\C#_Training\\PrinterManuf_interfaces\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Soumyadip--Esyasoft\\Advanced Training Stuff\\C#_Training\\PrinterManuf_interfaces\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T06:36:24.316Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
