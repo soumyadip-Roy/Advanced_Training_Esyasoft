@@ -2,6 +2,7 @@
 using MQTTnet.Client;
 using MQTTnet.Extensions.ManagedClient;
 using MQTTnet.Packets;
+using System.Reflection.Metadata.Ecma335;
 using System.Text;
 
 namespace MQTTSubscriber
@@ -10,6 +11,7 @@ namespace MQTTSubscriber
     {
         static async Task Main(string[] args)
         {
+            File.WriteAllText("log.txt", string.Empty);
             var factory = new MqttFactory();
             var new_client_receiver = factory.CreateManagedMqttClient();
 
@@ -26,15 +28,21 @@ namespace MQTTSubscriber
                 .Build();
 
             new_client_receiver.ConnectedAsync += async p => {
-                Console.WriteLine("Receiver: Connection Established");
+                var log = "Receiver: Connection Established";
+                Console.WriteLine(log);
+                File.AppendAllText("log.txt", log + "\n");
             };
 
             new_client_receiver.DisconnectedAsync += async p => {
-                Console.WriteLine("Receiver: Connection Lost");
+                var log = "Receiver: Connection Lost";
+                Console.WriteLine(log);
+                File.AppendAllText("log.txt", log + "\n");
             };
 
             new_client_receiver.ApplicationMessageReceivedAsync += async e => {
-                Console.WriteLine($"[{DateTime.UtcNow:HH:mm:ss}] Received - Topic: {e.ApplicationMessage.Topic}, Payload: {e.ApplicationMessage.ConvertPayloadToString()}");
+                var log = $"[{DateTime.UtcNow:HH:mm:ss}] Received - Topic: {e.ApplicationMessage.Topic}, Payload: {e.ApplicationMessage.ConvertPayloadToString()}";
+                Console.WriteLine(log);
+                File.AppendAllText("log.txt", log + "\n");
             };
 
             try
@@ -50,14 +58,20 @@ namespace MQTTSubscriber
                 };
 
                 await new_client_receiver.SubscribeAsync(all_topic);
-                Console.WriteLine("Subscribed to topics: test/+");
-                Console.WriteLine("Press any key to exit...");
+                var log = "Subscribed to topics: test/+";
+                Console.WriteLine(log);
+                File.AppendAllText("log.txt", log + "\n");
+                log = "Press any key to exit...";
+                Console.WriteLine(log);
+                File.AppendAllText("log.txt", log + "\n");
 
                 Console.ReadLine();
             }
             catch (Exception ex)
             {
-                Console.WriteLine($"Subscriber Error: {ex.Message}");
+                var log = $"Subscriber Error: {ex.Message}";
+                Console.WriteLine(log);
+                File.AppendAllText("log.txt", log + "\n");
             }
         }
     }
